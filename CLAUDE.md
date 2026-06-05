@@ -30,4 +30,4 @@ This file guides Agent Coding in this repository using a "progressive disclosure
 - Prefer Context7 for external dependency/library usage (query on demand).
 
 ## Important rules
-- **ALWAYS** call Serena's `activate_project` on agent startup
+- **ALWAYS** call Serena's `activate_project` on session startup
